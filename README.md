@@ -16,7 +16,7 @@
 ## Sass
 
 1. [Home](https://sass-lang.com/)
-2. [Grid System Demo](#)
+2. [Grid System Demo](https://github.com/Huynhhuynh/training/blob/master/Sass/grid-system.md)
 
 ## Php + MySql
 
