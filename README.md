@@ -66,7 +66,7 @@
 
 #### Sources
 
-[Home](https://getcomposer.org/)
+* [Home](https://getcomposer.org/)
 
 ## Nodejs & NPM
 
