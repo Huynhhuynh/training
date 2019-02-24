@@ -49,7 +49,7 @@
 
 #### Demos
 
-[Accordion](https://jsfiddle.net/bearstorm/hkv4Lbcd/27/)
+* [Accordion](https://jsfiddle.net/bearstorm/hkv4Lbcd/27/)
 
 ## Php Composer
 
