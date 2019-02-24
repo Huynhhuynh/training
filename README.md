@@ -6,9 +6,14 @@
 ## Html + Css
 
 * [Html + Css basic](https://www.w3schools.com/html/default.asp)
-    * [Demo header navigation](https://jsfiddle.net/bearstorm/y4mdrnau/9/)
 
 * [Bootstrap 4](https://getbootstrap.com/)
+
+#### Demos
+
+* [Demo header navigation](https://jsfiddle.net/bearstorm/y4mdrnau/9/)
+
+#### Templates
 
 * [Template lv1](https://tympanus.net/codrops/2015/08/11/freebie-sedna-one-page-website-template/)
 
