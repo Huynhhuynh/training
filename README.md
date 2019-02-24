@@ -22,8 +22,25 @@
 
 * [Demo grid system](https://github.com/Huynhhuynh/training/blob/master/Sass/grid-system.md)
 
-## Php + MySql
+#### Require
 
+* PHP development environment
+
+	* [XAMP](https://www.apachefriends.org/index.html)
+
+	* [MAMP](https://www.mamp.info/en/)
+
+  
+
+* Code editor
+
+	* [Atom](https://atom.io/)
+
+	* [Visual Studio Code](https://code.visualstudio.com/)
+
+#### Demos
+
+* [PHP & MySQL - create, edit, delete](https://github.com/Huynhhuynh/training/blob/master/Php%20%2B%20MySql/php-basic/php-basic.md)
 
 
 ## Javascript
