@@ -53,7 +53,7 @@
 
 #### Demos
 
-* [PHP & MySQL - create, edit, delete](https://github.com/Huynhhuynh/training/blob/master/Php%20%2B%20MySql/php-basic/php-basic.md)
+* [PHP & MySQL - CRUD](https://github.com/Huynhhuynh/training/blob/master/Php%20%2B%20MySql/php-basic/php-basic.md)
 
 
 ## Javascript
