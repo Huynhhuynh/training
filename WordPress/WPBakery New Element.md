@@ -160,3 +160,5 @@ public function vc_infobox_html( $atts ) {
 ```
 
 #### Result
+
+![WPBakery New element result](https://github.com/Huynhhuynh/training/blob/master/images/wpbakery-new-element.jpg?raw=true)

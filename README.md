@@ -84,4 +84,6 @@
 
 ## WordPress Plugin
 
-* [WPBakery New Element](#)
+#### Tips
+
+* [WPBakery New Element](https://github.com/Huynhhuynh/training/blob/master/WordPress/WPBakery%20New%20Element.md)
